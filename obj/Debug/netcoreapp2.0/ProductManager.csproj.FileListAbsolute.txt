@@ -1,0 +1,44 @@
+C:\Users\Lab\source\repos\ProductManager\ProductManager\bin\Debug\netcoreapp2.0\ProductManager.deps.json
+C:\Users\Lab\source\repos\ProductManager\ProductManager\bin\Debug\netcoreapp2.0\ProductManager.runtimeconfig.json
+C:\Users\Lab\source\repos\ProductManager\ProductManager\bin\Debug\netcoreapp2.0\ProductManager.runtimeconfig.dev.json
+C:\Users\Lab\source\repos\ProductManager\ProductManager\bin\Debug\netcoreapp2.0\ProductManager.dll
+C:\Users\Lab\source\repos\ProductManager\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.csprojResolveAssemblyReference.cache
+C:\Users\Lab\source\repos\ProductManager\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.csproj.CoreCompileInputs.cache
+C:\Users\Lab\source\repos\ProductManager\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.AssemblyInfoInputs.cache
+C:\Users\Lab\source\repos\ProductManager\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.AssemblyInfo.cs
+C:\Users\Lab\source\repos\ProductManager\ProductManager\bin\Debug\netcoreapp2.0\ProductManager.pdb
+C:\Users\Lab\source\repos\ProductManager\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.dll
+C:\Users\Lab\source\repos\ProductManager\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.pdb
+C:\Users\Lab\Downloads\ProductManager\bin\Debug\netcoreapp2.0\ProductManager.deps.json
+C:\Users\Lab\Downloads\ProductManager\bin\Debug\netcoreapp2.0\ProductManager.runtimeconfig.json
+C:\Users\Lab\Downloads\ProductManager\bin\Debug\netcoreapp2.0\ProductManager.runtimeconfig.dev.json
+C:\Users\Lab\Downloads\ProductManager\bin\Debug\netcoreapp2.0\ProductManager.dll
+C:\Users\Lab\Downloads\ProductManager\bin\Debug\netcoreapp2.0\ProductManager.pdb
+C:\Users\Lab\Downloads\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Downloads\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.csproj.CoreCompileInputs.cache
+C:\Users\Lab\Downloads\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.AssemblyInfoInputs.cache
+C:\Users\Lab\Downloads\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.AssemblyInfo.cs
+C:\Users\Lab\Downloads\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.dll
+C:\Users\Lab\Downloads\ProductManager\obj\Debug\netcoreapp2.0\ProductManager.pdb
+C:\Users\Lab04\Downloads\bin\Debug\netcoreapp2.0\ProductManager.deps.json
+C:\Users\Lab04\Downloads\bin\Debug\netcoreapp2.0\ProductManager.runtimeconfig.json
+C:\Users\Lab04\Downloads\bin\Debug\netcoreapp2.0\ProductManager.runtimeconfig.dev.json
+C:\Users\Lab04\Downloads\bin\Debug\netcoreapp2.0\ProductManager.dll
+C:\Users\Lab04\Downloads\bin\Debug\netcoreapp2.0\ProductManager.pdb
+C:\Users\Lab04\Downloads\obj\Debug\netcoreapp2.0\ProductManager.csprojResolveAssemblyReference.cache
+C:\Users\Lab04\Downloads\obj\Debug\netcoreapp2.0\ProductManager.csproj.CoreCompileInputs.cache
+C:\Users\Lab04\Downloads\obj\Debug\netcoreapp2.0\ProductManager.AssemblyInfoInputs.cache
+C:\Users\Lab04\Downloads\obj\Debug\netcoreapp2.0\ProductManager.AssemblyInfo.cs
+C:\Users\Lab04\Downloads\obj\Debug\netcoreapp2.0\ProductManager.dll
+C:\Users\Lab04\Downloads\obj\Debug\netcoreapp2.0\ProductManager.pdb
+C:\Users\Lab\Desktop\Nova pasta\obj\Debug\netcoreapp2.0\ProductManager.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\Nova pasta\obj\Debug\netcoreapp2.0\ProductManager.csproj.CoreCompileInputs.cache
+C:\Users\Lab\Desktop\Nova pasta\obj\Debug\netcoreapp2.0\ProductManager.AssemblyInfoInputs.cache
+C:\Users\Lab\Desktop\Nova pasta\obj\Debug\netcoreapp2.0\ProductManager.AssemblyInfo.cs
+C:\Users\Lab\Desktop\Nova pasta\obj\Debug\netcoreapp2.0\ProductManager.dll
+C:\Users\Lab\Desktop\Nova pasta\obj\Debug\netcoreapp2.0\ProductManager.pdb
+C:\Users\Lab\Desktop\Nova pasta\bin\Debug\netcoreapp2.0\ProductManager.deps.json
+C:\Users\Lab\Desktop\Nova pasta\bin\Debug\netcoreapp2.0\ProductManager.runtimeconfig.json
+C:\Users\Lab\Desktop\Nova pasta\bin\Debug\netcoreapp2.0\ProductManager.runtimeconfig.dev.json
+C:\Users\Lab\Desktop\Nova pasta\bin\Debug\netcoreapp2.0\ProductManager.dll
+C:\Users\Lab\Desktop\Nova pasta\bin\Debug\netcoreapp2.0\ProductManager.pdb
